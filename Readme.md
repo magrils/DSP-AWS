@@ -1,7 +1,7 @@
-# DSP
+# DSP course
 
 
-## Task 1 : Sharon Magril, 311553671
+## Task 1 : Manager-Worker map-reduce infrastructre  
 
 - ami used: ```"ami-0cff7528ff583bf9a  //  standard amazon linux ami``` , type used: ```t2.MICRO```
 
@@ -57,5 +57,3 @@ The third thread takes runnables from the blocking queue (errandQueue) one by on
 - The manager doesn't do any of the parsing work. Each worker node's work is completely agnostic to the any other worker node's work.      
 
 ## Rsults
-- the program ran with n=1 (in practice 1 manager & 8 workers due to aws instance restrictions).
-- the program took 19 minutes from start to finish.
