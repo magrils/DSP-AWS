@@ -1,7 +1,7 @@
 # DSP course
 
 
-## Task 1 : Manager-Worker map-reduce infrastructre  
+## Task 1 : Manager-Worker Map-Reduce Infrastructure  
 
 - ami used: ```"ami-0cff7528ff583bf9a  //  standard amazon linux ami``` , type used: ```t2.MICRO```
 
